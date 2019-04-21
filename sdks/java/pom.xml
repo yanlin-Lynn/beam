@@ -46,6 +46,7 @@
     <module>nexmark</module>
   </modules>
 
+  <!--
   <profiles>
     <profile>
       <id>java8-tests</id>
@@ -59,4 +60,5 @@
       </modules>
     </profile>
   </profiles>
+  -->
 </project>
